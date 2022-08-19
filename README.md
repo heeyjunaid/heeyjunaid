@@ -8,8 +8,8 @@ I'm working on Natural Language Understanding systems
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [junaidlatur@gmail.com](mailto:junaidlatur@gmail.com)
-* 🧠  I'm learning Machine Learning for Audion
-* 🤝  I'm open to collaborating on NLP, NLU and Computer Vision projects
+* 🧠  I'm learning Machine Learning for Audio
+* 🤝  I'm open to collaborate on NLP, NLU and Computer Vision projects
 
 ### Skills
 
