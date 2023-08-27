@@ -1,15 +1,15 @@
 Hi 👋 My name is Junaid Shaikh
 ==============================
 
-Machine Learning Engineer
+Software Developer and Machine Learning Engineer
 -------------------------
 
-I'm working on Natural Language Understanding systems
+Building large scale Payments Infra @ <a href="https://juspay.in/">Juspay</a>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [junaidlatur@gmail.com](mailto:junaidlatur@gmail.com)
-* 🧠  I'm learning Machine Learning for Audio
-* 🤝  I'm open to collaborate on NLP, NLU and Computer Vision projects
+* 🧠  Right now I'm learning Machine Learning for Audio
+* 🤝  I'm open to collaborate on NLP, NLU, Computer Vision projects or Software development projects
 
 <b>My GitHub Stats</b>
 
