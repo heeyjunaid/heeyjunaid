@@ -4,7 +4,7 @@ Hi 👋 My name is Junaid Shaikh
 Software Developer and Machine Learning Engineer
 -------------------------
 
-Building large scale Payments Infra @ <a href="https://juspay.in/">Juspay</a>
+Building Large Scale Payments Infra @ <a href="https://juspay.in/">Juspay</a>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [junaidlatur@gmail.com](mailto:junaidlatur@gmail.com)
