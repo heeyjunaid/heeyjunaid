@@ -8,8 +8,8 @@ Building Large Scale Payments Infra @ <a href="https://juspay.in/">Juspay</a>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [junaidlatur@gmail.com](mailto:junaidlatur@gmail.com)
-* 🧠  Right now I'm learning Machine Learning for Audio
-* 🤝  I'm open to collaborate on NLP, NLU, Computer Vision projects or Software development projects
+* 🧠  Right now I'm exploring LLMs
+* 🤝  I'm open to collaborate on NLP, NLU, Computer Vision or Software development projects
 
 <b>My GitHub Stats</b>
 
